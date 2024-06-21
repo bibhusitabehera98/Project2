@@ -1,4 +1,4 @@
 # New Project
 
 This project was created form local system.
-Created by Bibhusita Behera
+Created by Bibhusita Behera.
